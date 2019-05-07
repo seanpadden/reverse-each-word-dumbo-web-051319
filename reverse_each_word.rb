@@ -4,5 +4,5 @@ def reverse_each_word(sentence)
     blurb.reverse 
   end
   hi = blurb.join
-  puts hi
+  hi
 end

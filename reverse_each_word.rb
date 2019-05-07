@@ -3,4 +3,5 @@ def reverse_each_word(sentence)
   new.each do |blurb|
     blurb.reverse 
   end
+  blurb.join
 end
